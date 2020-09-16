@@ -70,11 +70,11 @@ $ npm start
 # :iphone: Imagens do App Mobile
 
 <p align="center">
-  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Ecoleta_Imagens/mobile_home.jpg" alt="Mobile Home Page" width="350">
+  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Ecoleta_Imagens/mobile_home.jpg" alt="Mobile Home Page" width="250">
 
-  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Ecoleta_Imagens/mobile_map.jpg" alt="Mobile Points Page" width="350">
+  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Ecoleta_Imagens/mobile_map.jpg" alt="Mobile Points Page" width="250">
 
-  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Ecoleta_Imagens/mobile_local.jpg" alt="Mobile Details Page" width="350">
+  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Ecoleta_Imagens/mobile_local.jpg" alt="Mobile Details Page" width="250">
 </p>
  
  # 💻 Tecnologias
