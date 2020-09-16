@@ -40,7 +40,7 @@ $ npm start
 * **Após iniciar o servidor, entre na pasta "./web" e execute no terminal:**
 
 ```bash
-$ npm install
+$ npm i
 $ npm start
 ```
 
@@ -49,7 +49,7 @@ $ npm start
 * **Após iniciar o web, entre na pasta "./mobile" e execute no terminal:**
 
 ```bash
-$ npm install
+$ npm i
 $ npm start
 ```
 
