@@ -29,7 +29,7 @@ $ npm i
 $ npm run knex:migrate
 $ npm run knex:seed
 ```
-  * **inicie o servidor:**
+  * **Inicie o servidor:**
 
 ```bash
 $ npm start
