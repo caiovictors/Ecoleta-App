@@ -68,6 +68,7 @@ $ npm start
 </p>
 
 # :iphone: Imagens do App Mobile
+(Lugar fictício)
 
 <p align="center">
   <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Ecoleta_Imagens/mobile_home.jpg" alt="Mobile Home Page" width="280">
