@@ -6,7 +6,7 @@ Seu marketplace de coleta de resíduos
 
 # 💡 Sobre
 
-   Projeto desenvolvido durante a Next Level Week #1 da Rocketseat que visa o descarte inteligente de resíduos que possam agredir o meio ambiente em locais adequados onde poderão ser reciclados e reaproveitados. Assim, o estabelecimento pode efetuar um cadastro informando sua localidade e tipos de itens que ele recicla como lâmpadas, óleo de cozinhas, papelão, etc. Com o aplicativo mobile é possível buscar por estabelecimentos próximos que faça a coleta dos itens recicláveis que deseja descartar.
+Projeto desenvolvido durante a Next Level Week #1 da Rocketseat que visa o descarte inteligente de resíduos que possam agredir o meio ambiente em locais adequados onde poderão ser reciclados e reaproveitados. Assim, o estabelecimento pode efetuar um cadastro informando sua localidade e tipos de itens que ele recicla como lâmpadas, óleo de cozinhas, papelão, etc. Com o aplicativo mobile é possível buscar por estabelecimentos próximos que faça a coleta dos itens recicláveis que deseja descartar.
 
 # ⚙️ Como executar
 
