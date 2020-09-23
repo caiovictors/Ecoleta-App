@@ -96,5 +96,5 @@ $ npm start
 - [x] [Axios](https://github.com/axios/axios)
 
 ### 🏦 Banco de dados
-- [x] [MySQL](https://www.mysql.com/)
+- [x] [SQLite](https://www.sqlite.org/)
 - [x] [Knex](http://knexjs.org/)
